@@ -1,4 +1,5 @@
-# AppianDocuSense
+# ADAC---Automatic-document-Analyzer-and-Classifier
+
 
 ## Overview
 AppianDocuSense is an intelligent document management platform that automates the classification and summarization of financial documents. The project leverages advanced natural language processing (NLP) models, a scalable backend, and an intuitive user interface to streamline document workflows. Designed for scalability and extensibility, it caters to modern document processing needs.
